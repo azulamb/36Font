@@ -1,0 +1,1816 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300"
+   height="600"
+   viewBox="0 0 300 600"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="36FontMin.svg"
+   style="enable-background:new"
+   enable-background="new">
+  <defs
+     id="defs4">
+    <font
+       horiz-adv-x="300"
+       id="font6205"
+       inkscape:label="36Font"
+       horiz-origin-x="0"
+       horiz-origin-y="0">
+      <font-face
+         units-per-em="300"
+         id="font-face6207"
+         font-family="36Font" />
+      <missing-glyph
+         d="M 0,400 V -200 H 300 V 400 Z"
+         id="missing-glyph6209" />
+      <glyph
+         glyph-name="Space"
+         id="glyph3535"
+         unicode=" "
+         d="M 150,100 Z" />
+      <glyph
+         glyph-name="!"
+         id="glyph3537"
+         unicode="!"
+         d="M 0,400 V 200 H 100 V 100 H 200 V 200 H 300 V 400 Z M 100,0 V -100 H 200 V 0 Z" />
+      <glyph
+         glyph-name="&quot;"
+         id="glyph3539"
+         unicode="&quot;"
+         d="M 0,400 V 200 h 100 v 200 z m 200,0 V 200 h 100 v 200 z" />
+      <glyph
+         glyph-name="#"
+         id="glyph3541"
+         unicode="#"
+         d="M 0,400 V -100 H 100 V 0 H 200 V -100 H 300 V 400 H 200 V 300 H 100 V 400 Z M 100,200 H 200 V 100 H 100 Z" />
+      <glyph
+         glyph-name="$"
+         id="glyph3543"
+         unicode="$"
+         d="M 100,400 V 300 H 0 V 100 H 100 V -100 H 200 V 0 H 300 V 200 H 200 v 200 z" />
+      <glyph
+         glyph-name="%"
+         id="glyph3545"
+         unicode="%"
+         d="M 0,400 V 300 h 100 v 100 z m 200,0 V 200 H 100 V 0 H 0 V -200 H 100 V 0 h 100 v 200 h 100 v 200 z m 0,-500 v -100 h 100 v 100 z" />
+      <glyph
+         glyph-name="&amp;"
+         id="glyph3547"
+         unicode="&amp;"
+         d="M 0,400 V 200 H 100 V 100 H 0 V -100 H 300 V 0 H 200 V 100 H 300 V 300 H 200 v 100 z" />
+      <glyph
+         glyph-name="'"
+         id="glyph3549"
+         unicode="'"
+         d="M 200,400 V 300 H 100 V 200 h 100 v 100 h 100 v 100 z" />
+      <glyph
+         glyph-name="("
+         id="glyph3551"
+         unicode="("
+         d="M 100,400 V 300 H 0 V 0 H 100 V -100 H 200 V 0 H 100 v 300 h 100 v 100 z" />
+      <glyph
+         glyph-name=")"
+         id="glyph3553"
+         unicode=")"
+         d="m 99.998047,400.00195 v -100 L 200,300 V 0 H 99.998047 V -100 H 199.99805 L 200,0 H 300 V 300.00195 L 200,300 l -0.002,100.00195 z" />
+      <glyph
+         glyph-name="*"
+         id="glyph3555"
+         unicode="*"
+         d="M 100,400 V 300 H 0 V 200 H 100 V 100 H 0 V 0 H 100 V -100 H 200 V 0 H 300 V 100 H 200 V 200 H 300 V 300 H 200 v 100 z" />
+      <glyph
+         glyph-name="+"
+         id="glyph3557"
+         unicode="+"
+         d="M 100,300 V 200 H 0 V 100 H 100 V 0 H 200 V 100 H 300 V 200 H 200 v 100 z" />
+      <glyph
+         glyph-name=","
+         id="glyph3559"
+         unicode=","
+         d="M 100.00195,-0.00382 100,-99.99796 0,-100.00196 V -200 H 100.00195 L 100,-99.99796 l 100,-0.004 v 99.99805 z" />
+      <glyph
+         glyph-name="-"
+         id="glyph3561"
+         unicode="-"
+         d="M 0,200 H 300 V 100 H 0 Z" />
+      <glyph
+         glyph-name="."
+         id="glyph3563"
+         unicode="."
+         d="M 100,0 H 200 V -100 H 100 Z" />
+      <glyph
+         glyph-name="/"
+         id="glyph3565"
+         unicode="/"
+         d="M 200,400 V 200 H 100 V 0 H 0 V -200 H 100 V 0 h 100 v 200 h 100 v 200 z" />
+      <glyph
+         glyph-name="0"
+         id="glyph3567"
+         unicode="0"
+         d="M 100.00391,400 100,300 H 0 V 0 h 100 l 0.004,-100 h 100 L 200,0 H 300 V 300 H 200 l 0.004,100 z M 100,300 H 200 V 0 H 100 Z" />
+      <glyph
+         glyph-name="1"
+         id="glyph3569"
+         unicode="1"
+         d="M 0,400 V 300 H 100 V 0 H 0 V -100 H 300 V 0 H 200 v 400 z" />
+      <glyph
+         glyph-name="2"
+         id="glyph3571"
+         unicode="2"
+         d="M 0,400 V 300 H 200 V 200 H 100 V 100 H 0 V -100 H 300 V 0 H 100 V 100 H 200 V 200 H 300 V 300 H 200 v 100 z" />
+      <glyph
+         glyph-name="3"
+         id="glyph3573"
+         unicode="3"
+         d="M 0,400 V 300 H 200 V 200 H 100.00391 V 100 H 200 V 0 H 0 V -100 H 200 V 0 H 300 V 100 H 200 V 200 H 300 V 300 H 200 v 100 z" />
+      <glyph
+         glyph-name="4"
+         id="glyph3575"
+         unicode="4"
+         d="M 0,400 V 100 H 200 V -100 H 300 V 400 H 200 V 200 H 100 v 200 z" />
+      <glyph
+         glyph-name="5"
+         id="glyph3577"
+         unicode="5"
+         d="M 0,400 V 200 H 100 V 100 H 200 V 0 H 0 V -100 H 200 V 0 H 300 V 200 H 100 v 100 h 200 v 100 z" />
+      <glyph
+         glyph-name="6"
+         id="glyph3579"
+         unicode="6"
+         d="M 0,400 V -100 H 300 V 200 H 100 V 300 H 300 V 400 Z M 100,100 H 200 V 0 H 100 Z" />
+      <glyph
+         glyph-name="7"
+         id="glyph3581"
+         unicode="7"
+         d="M 0,400 V 300 h 200 v -400 h 100 v 500 z" />
+      <glyph
+         glyph-name="8"
+         id="glyph3583"
+         unicode="8"
+         d="M 0,400 V -100 H 300 V 400 Z M 100,300 H 200 V 200 H 100 Z m 0,-200 H 200 V 0 H 100 Z" />
+      <glyph
+         glyph-name="9"
+         id="glyph3585"
+         unicode="9"
+         d="M 0,400 V 100 H 200 V -100 H 300 V 400 Z M 100,300 H 200 V 200 H 100 Z" />
+      <glyph
+         glyph-name=":"
+         id="glyph3587"
+         unicode=":"
+         d="M 100,300 V 200 h 100 v 100 z m 0,-200 V 0 h 100 v 100 z" />
+      <glyph
+         glyph-name=";"
+         id="glyph3589"
+         unicode=";"
+         d="M 100,300 V 200 h 100 v 100 z m 0,-200 v -200 h 100 v 200 z" />
+      <glyph
+         glyph-name="&lt;"
+         id="glyph3591"
+         unicode="&lt;"
+         d="M 200,400 V 300 H 100 V 200 H 0 V 100 H 100 V 0 H 200 V -100 H 300 V 0 H 200 V 100 H 100 v 100 h 100 v 100 h 100 v 100 z" />
+      <glyph
+         glyph-name="="
+         id="glyph3593"
+         unicode="="
+         d="M 0,300 V 200 H 300 V 300 Z M 0,100 V 0 h 300 v 100 z" />
+      <glyph
+         glyph-name="&gt;"
+         id="glyph3595"
+         unicode="&gt;"
+         d="M 0,400 V 300 H 100 V 200 H 200 V 100 H 100 V 0 H 0 V -100 H 100 V 0 H 200 V 100 H 300 V 200 H 200 V 300 H 100 v 100 z" />
+      <glyph
+         glyph-name="?"
+         id="glyph3597"
+         unicode="?"
+         d="M 0,400 V 200 H 100 V 300 H 200 V 100 H 300 V 400 Z M 100,0 V -100 H 200 V 0 Z" />
+      <glyph
+         glyph-name="@"
+         id="glyph3599"
+         unicode="@"
+         d="M 0,400 V -100 H 300 V 400 Z M 100,200 H 200 V 100 H 100 Z" />
+      <glyph
+         glyph-name="A"
+         id="glyph3601"
+         unicode="A"
+         d="M 0,400 V -100 H 100 V 0 H 200 V -100 H 300 V 400 Z M 100,300 H 200 V 100 H 100 Z" />
+      <glyph
+         glyph-name="B"
+         id="glyph3603"
+         unicode="B"
+         d="M 0,400 V -100 H 200 V 0 H 100 V 100 H 200 V 0 H 300 V 300 H 200 V 200 H 100 v 100 h 100 v 100 z" />
+      <glyph
+         glyph-name="C"
+         id="glyph3605"
+         unicode="C"
+         d="M 0,400 V -100 H 300 V 100 H 200 V 0 H 100 V 300 H 200 V 200 h 100 v 200 z" />
+      <glyph
+         glyph-name="D"
+         id="glyph3653"
+         unicode="D"
+         d="M 0,400 V -100 H 200 V 0 H 300 V 300 H 200 V 400 Z M 100,300 H 200 V 0 H 100 Z" />
+      <glyph
+         glyph-name="E"
+         id="glyph3655"
+         unicode="E"
+         d="M 0,400 V -100 H 300 V 0 H 100 V 100 H 200 V 200 H 100 v 100 h 200 v 100 z" />
+      <glyph
+         glyph-name="F"
+         id="glyph3657"
+         unicode="F"
+         d="M 0,400 V -100 H 100 V 100 H 200 V 200 H 100 v 100 h 200 v 100 z" />
+      <glyph
+         glyph-name="G"
+         id="glyph3659"
+         unicode="G"
+         d="M 0,400 V -100 H 300 V 200 H 200 V 0 H 100 v 300 h 200 v 100 z" />
+      <glyph
+         glyph-name="H"
+         id="glyph3661"
+         unicode="H"
+         d="M 0,400 V -100 H 100 V 100 H 200 V -100 H 300 V 400 H 200 V 200 H 100 v 200 z" />
+      <glyph
+         glyph-name="I"
+         id="glyph3663"
+         unicode="I"
+         d="M 0,400 V 300 H 100 V 0 H 0 V -100 H 300 V 0 H 200 v 300 h 100 v 100 z" />
+      <glyph
+         glyph-name="J"
+         id="glyph3665"
+         unicode="J"
+         d="M 0,400 V 300 H 100 V 0 H 0 V -100 H 100 V 0 h 100 v 300 h 100 v 100 z" />
+      <glyph
+         glyph-name="K"
+         id="glyph3667"
+         unicode="K"
+         d="M 0,400 V -100 H 100 V 0 H 200 V -100 H 300 V 0 H 200 V 100 H 100 V 200 H 200 V 300 H 300 V 400 H 200 V 300 H 100 v 100 z" />
+      <glyph
+         glyph-name="L"
+         id="glyph3669"
+         unicode="L"
+         d="M 0,400 V -100 H 300 V 0 H 100 v 400 z" />
+      <glyph
+         glyph-name="M"
+         id="glyph3671"
+         unicode="M"
+         d="M 0,400 V -100 H 300 V 400 H 200 V 300 H 100 v 100 z" />
+      <glyph
+         glyph-name="N"
+         id="glyph3673"
+         unicode="N"
+         d="M 0,400 V -100 H 100 V 300 H 200 V -100 H 300 V 400 Z" />
+      <glyph
+         glyph-name="O"
+         id="glyph3675"
+         unicode="O"
+         d="M 0,400 V -100 H 300 V 400 Z M 100,300 H 200 V 0 H 100 Z" />
+      <glyph
+         glyph-name="P"
+         id="glyph3677"
+         unicode="P"
+         d="M 0,400 V -100 H 100 V 100 H 300 V 400 Z M 100,300 H 200 V 200 H 100 Z" />
+      <glyph
+         glyph-name="Q"
+         id="glyph3679"
+         unicode="Q"
+         d="M 0,400 V -100 H 200 V -200 H 300 V 400 Z M 100,300 H 200 V 100 H 100 Z" />
+      <glyph
+         glyph-name="R"
+         id="glyph3681"
+         unicode="R"
+         d="M 0,400 V -100 H 100 V 0 H 200 V -100 H 300 V 0 H 200 V 100 H 300 V 400 Z M 100,300 H 200 V 200 H 100 Z" />
+      <glyph
+         glyph-name="S"
+         id="glyph3683"
+         unicode="S"
+         d="M 100,400 V 300 H 0 V 200 H 100 V 100 H 200 V 0 H 0 V -100 H 200 V 0 H 300 V 100 H 200 V 200 H 100 v 100 h 200 v 100 z" />
+      <glyph
+         glyph-name="T"
+         id="glyph3685"
+         unicode="T"
+         d="M 0,400 V 300 h 100 v -400 h 100 v 400 h 100 v 100 z" />
+      <glyph
+         glyph-name="U"
+         id="glyph3687"
+         unicode="U"
+         d="M 0,400 V -100 H 300 V 400 H 200 V 0 H 100 v 400 z" />
+      <glyph
+         glyph-name="V"
+         id="glyph3689"
+         unicode="V"
+         d="M 0,400 V 100 H 100 V -100 H 200 V 100 H 300 V 400 H 200 V 100 H 100 v 300 z" />
+      <glyph
+         glyph-name="W"
+         id="glyph3691"
+         unicode="W"
+         d="M 0,400 V -100 H 100 V 0 H 200 V -100 H 300 V 400 H 200 V 200 H 100 v 200 z" />
+      <glyph
+         glyph-name="X"
+         id="glyph3693"
+         unicode="X"
+         d="M 0,400 V 200 H 100 V 100 H 0 V -100 H 100 V 100 H 200 V -100 H 300 V 100 H 200 V 200 H 300 V 400 H 200 V 200 H 100 v 200 z" />
+      <glyph
+         glyph-name="Y"
+         id="glyph3695"
+         unicode="Y"
+         d="M 0,400 V 200 H 100 V -100 H 200 V 200 H 100 V 400 Z M 200,200 H 300 V 400 H 200 Z" />
+      <glyph
+         glyph-name="Z"
+         id="glyph3697"
+         unicode="Z"
+         d="M 0,400 V 300 H 200 V 200 H 100 V 100 H 0 V -100 H 300 V 0 L 99.994667,0.00533 100,100 h 100 v 100 h 100 v 200 z" />
+      <glyph
+         glyph-name="["
+         id="glyph3699"
+         unicode="["
+         d="m 0,400 v -600 h 300 v 100 H 100 v 400 h 200 v 100 z" />
+      <glyph
+         glyph-name="\"
+         id="glyph3701"
+         unicode="\"
+         d="M 0,400 V 200 H 100 V 0 H 200 V -200 H 300 V 0 H 200 V 200 H 100 v 200 z" />
+      <glyph
+         glyph-name="]"
+         id="glyph3703"
+         unicode="]"
+         d="M 0,400 V 300 H 200 V -100 H 0 v -100 h 300 v 600 z" />
+      <glyph
+         glyph-name="^"
+         id="glyph3705"
+         unicode="^"
+         d="M 100,400 V 300 H 0 V 200 H 100 V 300 H 200 V 200 H 300 V 300 H 200 v 100 z" />
+      <glyph
+         glyph-name="_"
+         id="glyph3707"
+         unicode="_"
+         d="M 0,-100 H 299.99844 V -200 H 0 Z" />
+      <glyph
+         glyph-name="`"
+         id="glyph3709"
+         unicode="`"
+         d="M 0,400 V 300 H 100 V 200 H 200 V 300 H 100 v 100 z" />
+      <glyph
+         glyph-name="a"
+         id="glyph3711"
+         unicode="a"
+         d="M 100,400 V 300 H 200 V 200 H 0 V -100 H 300 V 300 H 200 v 100 z m 0,-300 H 200 V 0 H 100 Z" />
+      <glyph
+         glyph-name="b"
+         id="glyph3713"
+         unicode="b"
+         d="M 0,400 V -100 H 300 V 200 H 100 V 400 Z M 100,100 H 200 V 0 H 100 Z" />
+      <glyph
+         glyph-name="c"
+         id="glyph3715"
+         unicode="c"
+         d="M 0,200 V -100 H 300 V 0 H 100 v 100 h 200 v 100 z" />
+      <glyph
+         glyph-name="d"
+         id="glyph3717"
+         unicode="d"
+         d="M 200,400 V 200 H 0 V -100 H 300 V 400 Z M 100,100 H 200 V 0 H 100 Z" />
+      <glyph
+         glyph-name="e"
+         id="glyph3719"
+         unicode="e"
+         d="M 100,300 V 200 H 0 V 0 H 100 V -100 H 300 V 100 H 100 v 100 h 200 v 100 z" />
+      <glyph
+         glyph-name="f"
+         id="glyph3721"
+         unicode="f"
+         d="M 200,400 V 300 H 100 V 200 H 0 V 100 H 100 V -100 H 200 V 100 H 300 V 200 H 200 v 100 h 100 v 100 z" />
+      <glyph
+         glyph-name="g"
+         id="glyph3723"
+         unicode="g"
+         d="M 100,200 V 100 H 200 V 0 H 100 V 100 H 0 v -200 h 100 v -100 h 200 v 400 z" />
+      <glyph
+         glyph-name="h"
+         id="glyph3725"
+         unicode="h"
+         d="M 0,400 V -100 H 100 V 100 H 200 V -100 H 300 V 200 H 100 v 200 z" />
+      <glyph
+         glyph-name="i"
+         id="glyph3727"
+         unicode="i"
+         d="M 100,400 V 300 h 100 v 100 z m 0,-200 v -300 h 100 v 300 z" />
+      <glyph
+         glyph-name="j"
+         id="glyph3729"
+         unicode="j"
+         d="M 100,400 V 300 h 100 v 100 z m 0,-200 V -100 H 0 v -100 h 100 v 100 h 100 v 300 z" />
+      <glyph
+         glyph-name="k"
+         id="glyph3731"
+         unicode="k"
+         d="M 0,400 V -100 H 100 V 0 H 200 V -100 H 300 V 0 H 200 V 100 H 300 V 200 H 200 V 100 H 100 v 300 z" />
+      <glyph
+         glyph-name="l"
+         id="glyph3733"
+         unicode="l"
+         d="M 100,300 V 0 H 0 V -100 H 100 V 0 H 200 V 300 H 300 V 400 H 200 V 300 Z" />
+      <glyph
+         glyph-name="m"
+         id="glyph3735"
+         unicode="m"
+         d="M 0,300 V -100 H 300 V 200 H 100 v 100 z" />
+      <glyph
+         glyph-name="n"
+         id="glyph3737"
+         unicode="n"
+         d="M 0,100 V -200 H 100 V 0 H 200 V -200 H 300 V 0 H 200 v 100 z" />
+      <glyph
+         glyph-name="o"
+         id="glyph3739"
+         unicode="o"
+         d="M 0,200 V -100 H 300 V 200 Z M 100,100 H 200 V 0 H 100 Z" />
+      <glyph
+         glyph-name="p"
+         id="glyph3741"
+         unicode="p"
+         d="m 0,200 v -400 h 100 v 100 H 300 V 200 Z M 100,100 H 200 V 0 H 100 Z" />
+      <glyph
+         glyph-name="q"
+         id="glyph3743"
+         unicode="q"
+         d="M 0,200 V -100 H 200 V -200 H 300 V 200 Z M 100,100 H 200 V 0 H 100 Z" />
+      <glyph
+         glyph-name="r"
+         id="glyph3745"
+         unicode="r"
+         d="M 0,200 V -100 H 100 V 100 H 300 V 200 Z" />
+      <glyph
+         glyph-name="s"
+         id="glyph3747"
+         unicode="s"
+         d="M 100,200 V 0 H 0 v -100 h 200 v 200 h 100 v 100 z" />
+      <glyph
+         glyph-name="t"
+         id="glyph3749"
+         unicode="t"
+         d="M 100,300 V 200 H 0 V 100 H 100 V -100 H 200 V 100 H 300 V 200 H 200 v 100 z" />
+      <glyph
+         glyph-name="u"
+         id="glyph3751"
+         unicode="u"
+         d="M 0,200 V -100 H 300 V 200 H 200 V 0 H 100 v 200 z" />
+      <glyph
+         glyph-name="v"
+         id="glyph3753"
+         unicode="v"
+         d="M 0,200 V 0 H 100 V -100 H 200 V 0 H 300 V 200 H 200 V 0 H 100 v 200 z" />
+      <glyph
+         glyph-name="w"
+         id="glyph3755"
+         unicode="w"
+         d="M 0,200 V -100 H 300 V 200 H 200 V 100 H 100 v 100 z" />
+      <glyph
+         glyph-name="x"
+         id="glyph3757"
+         unicode="x"
+         d="M 0,200 V 100 H 100 V 0 H 0 V -100 H 100 V 0 H 200 V -100 H 300 V 0 H 200 V 100 H 300 V 200 H 200 V 100 H 100 v 100 z" />
+      <glyph
+         glyph-name="y"
+         id="glyph3759"
+         unicode="y"
+         d="M 0,200 V 0 H 100 V -100 H 0 v -100 h 200 v 100 H 300 V 200 H 200 V 0 H 100 v 200 z" />
+      <glyph
+         glyph-name="z"
+         id="glyph3761"
+         unicode="z"
+         d="M 0,200 V 100 H 100 V 0 H 0 V -100 H 300 V 0 H 200 v 100 h 100 v 100 z" />
+      <glyph
+         glyph-name="{"
+         id="glyph3763"
+         unicode="{"
+         d="M 200,400 V 300 H 100 V 200 H 0 V 100 H 100 V 0 H 200 V -100 H 300 V 0 H 200 v 300 h 100 v 100 z" />
+      <glyph
+         glyph-name="|"
+         id="glyph3765"
+         unicode="|"
+         d="M 100,400 H 200 V -200 H 100 Z" />
+      <glyph
+         glyph-name="}"
+         id="glyph3767"
+         unicode="}"
+         d="M 0,400 V 300 H 100 V 0 H 0 V -100 H 100 V 0 H 200 V 100 H 300 V 200 H 200 V 300 H 100 v 100 z" />
+      <glyph
+         glyph-name="~"
+         id="glyph3769"
+         unicode="~"
+         d="M 200,400 V 300 H 0 V 100 h 100 v 100 h 200 v 200 z" />
+      <glyph
+         glyph-name="█"
+         id="glyph297"
+         unicode="█"
+         d="M 0,400 V -200 H 300 V 400 Z" />
+    </font>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="-422.16599"
+     inkscape:cy="330.92369"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer97"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1823"
+     inkscape:window-height="1166"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4136"
+       originx="0"
+       originy="0"
+       spacingx="100"
+       spacingy="100" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="base"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:2.1908865"
+       d="M 0,0 H 299.99908 V 600 H 0 Z"
+       id="rect651"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="space"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       d="M 150,300 Z"
+       id="path6203"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="!"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.51640064"
+       d="M 0,0 V 200 H 100 V 300 H 200 V 200 H 300 V 0 Z M 100,400 V 500 H 200 V 400 Z"
+       id="rect943"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="&quot;"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.73029965"
+       d="M 0,0 V 200 H 100 V 0 Z M 200,0 V 200 H 300 V 0 Z"
+       id="rect949"
+       sodipodi:nodetypes="cccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="#"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.15470397"
+       d="M 0,0 V 500 H 100 V 400 H 200 V 500 H 300 V 0 H 200 V 100 H 100 V 0 Z M 100,200 H 200 V 300 H 100 Z"
+       id="rect953"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="$"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.73029608"
+       d="M 100,0 V 100 H 0 V 300 H 100 V 500 H 200 V 400 H 300 V 200 H 200 V 0 Z"
+       id="rect961"
+       sodipodi:nodetypes="ccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="%"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.73029977"
+       d="M 0,0 V 100 H 100 V 0 Z M 200,0 V 200 H 100 V 400 H 0 V 600 H 100 V 400 H 200 V 200 H 300 V 0 Z m 0,500 V 600 H 300 V 500 Z"
+       id="rect969"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="&amp;"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.51639897"
+       d="M 0,0 V 200 H 100 V 300 H 0 V 500 H 300 V 400 H 200 V 300 H 300 V 100 H 200 V 0 Z"
+       id="rect979"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="'"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.51639837"
+       d="M 200,0 V 100 H 100 V 200 H 200 V 100 H 300 V 0 Z"
+       id="rect987"
+       sodipodi:nodetypes="ccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="("
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.89442897"
+       d="M 100,0 V 100 H 0 V 400 H 100 V 500 H 200 V 400 H 100 V 100 H 200 V 0 Z"
+       id="rect1075"
+       sodipodi:nodetypes="ccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer11"
+     inkscape:label=")"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.89443183"
+       d="M 99.998047,-0.00195313 V 99.998047 L 200,100 V 400 H 99.998047 V 500 H 199.99805 L 200,400 H 300 V 99.998047 L 200,100 199.99805,-0.00195313 Z"
+       id="rect997"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer12"
+     inkscape:label="*"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.17779732"
+       d="M 100,0 V 100 H 0 V 200 H 100 V 300 H 0 V 400 H 100 V 500 H 200 V 400 H 300 V 300 H 200 V 200 H 300 V 100 H 200 V 0 Z"
+       id="rect1003"
+       sodipodi:nodetypes="ccccccccccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer13"
+     inkscape:label="+"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.89442843"
+       d="M 100,100 V 200 H 0 V 300 H 100 V 400 H 200 V 300 H 300 V 200 H 200 V 100 Z"
+       id="rect1013"
+       sodipodi:nodetypes="ccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer14"
+     inkscape:label=","
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.51639003"
+       d="M 100.00195,400.00382 100,499.99796 0,500.00196 V 600 H 100.00195 L 100,499.99796 l 100,0.004 v -99.99805 z"
+       id="rect1017"
+       sodipodi:nodetypes="ccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer15"
+     inkscape:label="-"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.89442879"
+       d="M 0,200 H 300 V 300 H 0 Z"
+       id="rect1021"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer16"
+     inkscape:label="."
+     style="display:none;"
+     sodipodi:insensitive="true">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.51639956"
+       d="M 100,400 H 200 V 500 H 100 Z"
+       id="rect1023"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer17"
+     inkscape:label="/"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.51639837"
+       d="M 200,0 V 200 H 100 V 400 H 0 V 600 H 100 V 400 H 200 V 200 H 300 V 0 Z"
+       id="rect1025"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer18"
+     inkscape:label="0"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.89442456"
+       d="M 100.00391,0 100,100 H 0 v 300 h 100 l 0.004,100 h 100 L 200,400 H 300 V 100 H 200 L 200.004,0 Z M 100,100 H 200 V 400 H 100 Z"
+       id="rect859"
+       sodipodi:nodetypes="cccccccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer19"
+     inkscape:label="1"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.51639599"
+       d="M 0,0 V 100 H 100 V 400 H 0 V 500 H 300 V 400 H 200 V 0 Z"
+       id="rect867"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer20"
+     inkscape:label="2"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.73029298"
+       d="M 0,0 V 100 H 200 V 200 H 100 V 300 H 0 V 500 H 300 V 400 H 100 V 300 H 200 V 200 H 300 V 100 H 200 V 0 Z"
+       id="rect873"
+       sodipodi:nodetypes="ccccccccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer21"
+     inkscape:label="3"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.51639992"
+       d="M 0,0 V 100 H 200 V 200 H 100.00391 V 300 H 200 V 400 H 0 V 500 H 200 V 400 H 300 V 300 H 200 V 200 H 300 V 100 H 200 V 0 Z"
+       id="rect883"
+       sodipodi:nodetypes="ccccccccccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer22"
+     inkscape:label="4"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.89444035"
+       d="M 0,0 V 300 H 200 V 500 H 300 V 0 H 200 V 200 H 100 V 0 Z"
+       id="rect893"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer23"
+     inkscape:label="5"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.73029798"
+       d="M 0,0 V 200 H 100 V 300 H 200 V 400 H 0 V 500 H 200 V 400 H 300 V 200 H 100 V 100 H 300 V 0 Z"
+       id="rect899"
+       sodipodi:nodetypes="ccccccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer24"
+     inkscape:label="6"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.89442933"
+       d="M 0,0 V 500 H 300 V 200 H 100 V 100 H 300 V 0 Z M 100,300 H 200 V 400 H 100 Z"
+       id="rect909"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer25"
+     inkscape:label="7"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.15470564"
+       d="M 0,0 V 100 H 200 V 500 H 300 V 0 Z"
+       id="rect919"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer26"
+     inkscape:label="8"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.15468788"
+       d="M 0,0 V 500 H 300 V 0 Z M 100,100 H 200 V 200 H 100 Z m 0,200 H 200 V 400 H 100 Z"
+       id="rect923"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer27"
+     inkscape:label="9"
+     style="display:none">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.15468788"
+       d="M 0,0 V 300 H 200 V 500 H 300 V 0 Z M 100,100 H 200 V 200 H 100 Z"
+       id="rect933"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer28"
+     inkscape:label=":"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.51639718"
+       d="M 100,100 V 200 H 200 V 100 Z m 0,200 V 400 H 200 V 300 Z"
+       id="rect1031"
+       sodipodi:nodetypes="cccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer29"
+     inkscape:label=";"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.51639718"
+       d="M 100,100 V 200 H 200 V 100 Z m 0,200 V 500 H 200 V 300 Z"
+       id="rect1035"
+       sodipodi:nodetypes="cccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer30"
+     inkscape:label="&lt;"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.51639092"
+       d="M 200,0 V 100 H 100 V 200 H 0 V 300 H 100 V 400 H 200 V 500 H 300 V 400 H 200 V 300 H 100 V 200 H 200 V 100 H 300 V 0 Z"
+       id="rect991"
+       sodipodi:nodetypes="ccccccccccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer31"
+     inkscape:label="="
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       inkscape:connector-curvature="0"
+       id="path484"
+       d="M 0,100 V 200 H 300 V 100 Z M 0,300 V 400 H 300 V 300 Z"
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.89442569"
+       sodipodi:nodetypes="cccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer32"
+     inkscape:label="&gt;"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.51639783"
+       d="M 0,0 V 100 H 100 V 200 H 200 V 300 H 100 V 400 H 0 V 500 H 100 V 400 H 200 V 300 H 300 V 200 H 200 V 100 H 100 V 0 Z"
+       id="rect1047"
+       sodipodi:nodetypes="ccccccccccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer33"
+     inkscape:label="?"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.73029643"
+       d="M 0,0 V 200 H 100 V 100 H 200 V 300 H 300 V 0 Z M 100,400 V 500 H 200 V 400 Z"
+       id="rect1057"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer34"
+     inkscape:label="@"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.15470362"
+       d="M 0,0 V 500 H 300 V 0 Z M 100,200 H 200 V 300 H 100 Z"
+       id="rect1067"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer35"
+     inkscape:label="A"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.15470362"
+       d="M 0,0 V 500 H 100 V 400 H 200 V 500 H 300 V 0 Z M 100,100 H 200 V 300 H 100 Z"
+       id="rect653"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer36"
+     inkscape:label="B"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.15470362"
+       d="M 0,0 V 500 H 200 V 400 H 100 V 300 H 200 V 400 H 300 V 100 H 200 V 200 H 100 V 100 H 200 V 0 Z"
+       id="rect661"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer37"
+     inkscape:label="C"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.15470362"
+       d="M 0,0 V 500 H 300 V 300 H 200 V 400 H 100 V 100 H 200 V 200 H 300 V 0 Z"
+       id="rect671"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer38"
+     inkscape:label="D"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.15470362"
+       d="M 0,0 V 500 H 200 V 400 H 300 V 100 H 200 V 0 Z M 100,100 H 200 V 400 H 100 Z"
+       id="rect681"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer39"
+     inkscape:label="E"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.15470362"
+       d="M 0,0 V 500 H 300 V 400 H 100 V 300 H 200 V 200 H 100 V 100 H 300 V 0 Z"
+       id="rect691"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer40"
+     inkscape:label="F"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.15470362"
+       d="M 0,0 V 500 H 100 V 300 H 200 V 200 H 100 V 100 H 300 V 0 Z"
+       id="rect699"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer41"
+     inkscape:label="G"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.15470362"
+       d="M 0,0 V 500 H 300 V 200 H 200 V 400 H 100 V 100 H 300 V 0 Z"
+       id="rect705"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer42"
+     inkscape:label="H"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.15470362"
+       d="M 0,0 V 500 H 100 V 300 H 200 V 500 H 300 V 0 H 200 V 200 H 100 V 0 Z"
+       id="rect715"
+       sodipodi:nodetypes="ccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer43"
+     inkscape:label="I"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.89442766"
+       d="M 0,0 V 100 H 100 V 400 H 0 V 500 H 300 V 400 H 200 V 100 H 300 V 0 Z"
+       id="rect723"
+       sodipodi:nodetypes="ccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer44"
+     inkscape:label="J"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.89442766"
+       d="M 0,0 V 100 H 100 V 400 H 0 V 500 H 100 V 400 H 200 V 100 H 300 V 0 Z"
+       id="rect729"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer45"
+     inkscape:label="K"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.15470362"
+       d="M 0,0 V 500 H 100 V 400 H 200 V 500 H 300 V 400 H 200 V 300 H 100 V 200 H 200 V 100 H 300 V 0 H 200 V 100 H 100 V 0 Z"
+       id="rect735"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer46"
+     inkscape:label="L"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.15470362"
+       d="M 0,0 V 500 H 300 V 400 H 100 V 0 Z"
+       id="rect745"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer47"
+     inkscape:label="M"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.15470362"
+       d="M 0,0 V 500 H 300 V 0 H 200 V 100 H 100 V 0 Z"
+       id="rect749"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer48"
+     inkscape:label="N"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.15470362"
+       d="M 0,0 V 500 H 100 V 100 H 200 V 500 H 300 V 0 Z"
+       id="rect755"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer49"
+     inkscape:label="O"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.15470362"
+       d="M 0,0 V 500 H 300 V 0 Z M 100,100 H 200 V 400 H 100 Z"
+       id="rect761"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer50"
+     inkscape:label="P"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.15470362"
+       d="M 0,0 V 500 H 100 V 300 H 300 V 0 Z M 100,100 H 200 V 200 H 100 Z"
+       id="rect771"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer51"
+     inkscape:label="Q"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.15470362"
+       d="M 0,0 V 500 H 200 V 600 H 300 V 0 Z M 100,100 H 200 V 300 H 100 Z"
+       id="rect781"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer52"
+     inkscape:label="R"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.15468824"
+       d="M 0,0 V 500 H 100 V 400 H 200 V 500 H 300 V 400 H 200 V 300 H 300 V 0 Z M 100,100 H 200 V 200 H 100 Z"
+       id="rect789"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer53"
+     inkscape:label="S"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.51639837"
+       d="M 100,0 V 100 H 0 V 200 H 100 V 300 H 200 V 400 H 0 V 500 H 200 V 400 H 300 V 300 H 200 V 200 H 100 V 100 H 300 V 0 Z"
+       id="rect799"
+       sodipodi:nodetypes="ccccccccccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer54"
+     inkscape:label="T"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.89442766"
+       d="M 0,0 V 100 H 100 V 500 H 200 V 100 H 300 V 0 Z"
+       id="rect821"
+       sodipodi:nodetypes="ccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer55"
+     inkscape:label="U"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.15470362"
+       d="M 0,0 V 500 H 300 V 0 H 200 V 400 H 100 V 0 Z"
+       id="rect825"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer56"
+     inkscape:label="V"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.89442933"
+       d="M 0,0 V 300 H 100 V 500 H 200 V 300 H 300 V 0 H 200 V 300 H 100 V 0 Z"
+       id="rect831"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer57"
+     inkscape:label="W"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.15470362"
+       d="M 0,0 V 500 H 100 V 400 H 200 V 500 H 300 V 0 H 200 V 200 H 100 V 0 Z"
+       id="rect837"
+       sodipodi:nodetypes="ccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer58"
+     inkscape:label="X"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.73030835"
+       d="M 0,0 V 200 H 100 V 300 H 0 V 500 H 100 V 300 H 200 V 500 H 300 V 300 H 200 V 200 H 300 V 0 H 200 V 200 H 100 V 0 Z"
+       id="rect843"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer59"
+     inkscape:label="Y"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.73029852"
+       d="M 0,0 V 200 H 100 V 500 H 200 V 200 H 100 V 0 Z M 200,200 H 300 V 0 H 200 Z"
+       id="rect853"
+       sodipodi:nodetypes="cccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer60"
+     inkscape:label="Z"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.73028827"
+       d="M 0,0 V 100 H 200 V 200 H 100 V 300 H 0 V 500 H 300 V 400 L 99.994667,399.99467 100,300 H 200 V 200 H 300 V 0 Z"
+       id="rect809"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer61"
+     inkscape:label="["
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.15470362"
+       d="M 0,0 V 600 H 300 V 500 H 100 V 100 H 300 V 0 Z"
+       id="rect1087"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer62"
+     inkscape:label="\"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.73029763"
+       d="M 0,0 V 200 H 100 V 400 H 200 V 600 H 300 V 400 H 200 V 200 H 100 V 0 Z"
+       id="rect1093"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer63"
+     inkscape:label="]"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.15470362"
+       d="M 0,0 V 100 H 200 V 500 H 0 V 600 H 300 V 0 Z"
+       id="rect1081"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer64"
+     inkscape:label="^"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.51639795"
+       d="M 100,0 V 100 H 0 V 200 H 100 V 100 H 200 V 200 H 300 V 100 H 200 V 0 Z"
+       id="rect1099"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer65"
+     inkscape:label="_"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.89442474"
+       d="M 0,500 H 299.99844 V 600 H 0 Z"
+       id="rect1105"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer66"
+     inkscape:label="`"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.51639867"
+       d="M 0,0 V 100 H 100 V 200 H 200 V 100 H 100 V 0 Z"
+       id="rect1107"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer67"
+     inkscape:label="a"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.89442927"
+       d="M 100,0 V 100 H 200 V 200 H 0 V 500 H 300 V 100 H 200 V 0 Z m 0,300 H 200 V 400 H 100 Z"
+       id="rect1111"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer68"
+     inkscape:label="b"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.89442927"
+       d="M 0,0 V 500 H 300 V 200 H 100 V 0 Z M 100,300 H 200 V 400 H 100 Z"
+       id="rect1121"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer69"
+     inkscape:label="c"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.89442903"
+       d="M 0,200 V 500 H 300 V 400 H 100 V 300 H 300 V 200 Z"
+       id="rect1129"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer70"
+     inkscape:label="d"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.15470362"
+       d="M 200,0 V 200 H 0 V 500 H 300 V 0 Z M 100,300 H 200 V 400 H 100 Z"
+       id="rect1137"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer71"
+     inkscape:label="e"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.73029774"
+       d="M 100,100 V 200 H 0 V 400 H 100 V 500 H 300 V 300 H 100 V 200 H 300 V 100 Z"
+       id="rect1144"
+       sodipodi:nodetypes="ccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer72"
+     inkscape:label="f"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.03279781"
+       d="M 200,0 V 100 H 100 V 200 H 0 V 300 H 100 V 500 H 200 V 300 H 300 V 200 H 200 V 100 H 300 V 0 Z"
+       id="rect1154"
+       sodipodi:nodetypes="ccccccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer73"
+     inkscape:label="g"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.73029834"
+       d="M 100,200 V 300 H 200 V 400 H 100 V 300 H 0 V 500 H 100 V 600 H 300 V 200 Z"
+       id="rect1160"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer74"
+     inkscape:label="h"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.89442927"
+       d="M 0,0 V 500 H 100 V 300 H 200 V 500 H 300 V 200 H 100 V 0 Z"
+       id="rect1135"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer75"
+     inkscape:label="i"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.89442927"
+       d="M 100,0 V 100 H 200 V 0 Z m 0,200 V 500 H 200 V 200 Z"
+       id="rect1174"
+       sodipodi:nodetypes="cccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer76"
+     inkscape:label="j"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.89442927"
+       d="M 100,0 V 100 H 200 V 0 Z m 0,200 V 500 H 0 V 600 H 100 V 500 H 200 V 200 Z"
+       id="rect1178"
+       sodipodi:nodetypes="cccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer77"
+     inkscape:label="k"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.5163964"
+       d="M 0,0 V 500 H 100 V 400 H 200 V 500 H 300 V 400 H 200 V 300 H 300 V 200 H 200 V 300 H 100 V 0 Z"
+       id="rect1184"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer78"
+     inkscape:label="l"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.5163964"
+       d="M 100,100 V 400 H 0 V 500 H 100 V 400 H 200 V 100 H 300 V 0 H 200 v 100 z"
+       id="rect1192"
+       sodipodi:nodetypes="ccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer79"
+     inkscape:label="m"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.03279924"
+       d="M 0,100 V 500 H 300 V 200 H 100 V 100 Z"
+       id="rect1198"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer80"
+     inkscape:label="n"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.03279781"
+       d="M 0,200 V 500 H 100 V 300 H 200 V 500 H 300 V 300 H 200 V 200 Z"
+       id="rect1204"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer81"
+     inkscape:label="o"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.89443171"
+       d="M 0,200 V 500 H 300 V 200 Z M 100,300 H 200 V 400 H 100 Z"
+       id="rect1210"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer82"
+     inkscape:label="p"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.03279996"
+       d="M 0,200 V 600 H 100 V 500 H 300 V 200 Z M 100,300 H 200 V 400 H 100 Z"
+       id="rect1218"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer83"
+     inkscape:label="q"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.89443129"
+       d="M 0,200 V 500 H 200 V 600 H 300 V 200 Z M 100,300 H 200 V 400 H 100 Z"
+       id="rect1226"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer84"
+     inkscape:label="r"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.8944267"
+       d="M 0,200 V 500 H 100 V 300 H 300 V 200 Z"
+       id="rect1234"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer85"
+     inkscape:label="s"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.51639903"
+       d="M 100,200 V 400 H 0 V 500 H 200 V 300 H 300 V 200 Z"
+       id="rect1238"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer86"
+     inkscape:label="t"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.8944279"
+       d="M 100,100 V 200 H 0 V 300 H 100 V 500 H 200 V 300 H 300 V 200 H 200 V 100 Z"
+       id="rect1244"
+       sodipodi:nodetypes="ccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer87"
+     inkscape:label="u"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.89442927"
+       d="M 0,200 V 500 H 300 V 200 H 200 V 400 H 100 V 200 Z"
+       id="rect1248"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer88"
+     inkscape:label="v"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.73029929"
+       d="M 0,200 V 400 H 100 V 500 H 200 V 400 H 300 V 200 H 200 V 400 H 100 V 200 Z"
+       id="rect1254"
+       sodipodi:nodetypes="ccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer89"
+     inkscape:label="w"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.89443028"
+       d="M 0,200 V 500 H 300 V 200 H 200 V 300 H 100 V 200 Z"
+       id="rect1260"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer90"
+     inkscape:label="x"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.51639736"
+       d="M 0,200 V 300 H 100 V 400 H 0 V 500 H 100 V 400 H 200 V 500 H 300 V 400 H 200 V 300 H 300 V 200 H 200 V 300 H 100 V 200 Z"
+       id="rect1266"
+       sodipodi:nodetypes="ccccccccccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer91"
+     inkscape:label="y"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.73029834"
+       d="M 0,200 V 400 H 100 V 500 H 0 V 600 H 200 V 500 H 300 V 200 H 200 V 400 H 100 V 200 Z"
+       id="rect1276"
+       sodipodi:nodetypes="ccccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer92"
+     inkscape:label="z"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.89442289"
+       d="M 0,200 V 300 H 100 V 400 H 0 V 500 H 300 V 400 H 200 V 300 H 300 V 200 Z"
+       id="rect1286"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer93"
+     inkscape:label="{"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.94642413"
+       d="M 200,0 V 100 H 100 V 200 H 0 V 300 H 100 V 400 H 200 V 500 H 300 V 400 H 200 V 100 H 300 V 0 Z"
+       id="rect1302"
+       sodipodi:nodetypes="ccccccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer94"
+     inkscape:label="|"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.57735002"
+       d="M 100,0 H 200 V 600 H 100 Z"
+       id="rect1313"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer95"
+     inkscape:label="}"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.97906888"
+       d="M 0,0 V 100 H 100 V 400 H 0 V 500 H 100 V 400 H 200 V 300 H 300 V 200 H 200 V 100 H 100 V 0 Z"
+       id="rect1296"
+       sodipodi:nodetypes="ccccccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer96"
+     inkscape:label="~"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.51639783"
+       d="M 200,0 V 100 H 0 V 300 H 100 V 200 H 300 V 0 Z"
+       id="rect1315"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer97"
+     inkscape:label="█"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#1a1a1a"
+       d="M 0,0 V 600 H 300 V 0 Z"
+       id="path318"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
